@@ -27,7 +27,7 @@
 
 
 <!--info for tools and skills-->
-### Tools & Environments
+### 🛠 Tools & Environments
 [![](https://img.shields.io/badge/Huawei-p40%20pro-%23FF0000?logo=huawei&logoColor=ff0000)](https://www.huawei.com/cn/)
 [![](https://img.shields.io/badge/OS-Fedora-%23294172?logo=fedora)]()
 [![](https://img.shields.io/badge/macOS-Big%20Sur-%23000000?logo=apple)](https://www.apple.com.cn/)
@@ -37,7 +37,7 @@
 [![](https://img.shields.io/badge/IDE-Pycharm-%23000000?logo=pycharm)]()
 [![]()]()
 
-### Skills & Languages
+### 📗 Skills & Languages
 [![](https://img.shields.io/badge/Web-Chrome-%234285F4?logo=googlechrome)]()
 [![](https://img.shields.io/badge/-Java-%23007396?logo=java)]()
 [![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C?logo=cplusplus)]()
@@ -65,7 +65,7 @@ JSON       17 mins         ▓░░░░░░░░░░░░░░░░�
 Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %  
 ```
 
-### My Steam 
+### 🕹 My Steam 
 [![](https://img.shields.io/badge/Steam-171a21?logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/lcollection)
 
 
