@@ -11,15 +11,18 @@
   </a>
 </p>
 
-<p align="center">
-    [![](https://img.shields.io/github/followers/Lcollection?style=social?logo=github)]()
-    [![](https://img.shields.io/github/stars/Lcollection?style=social?logo=github)]()
-    [![](https://img.shields.io/badge/BiliBili-L_Collection-%2300A1D6?logo=bilibili)]()
-    [![](https://img.shields.io/badge/Zhihu-L--Collection-%230084FF?logo=zhihu)]()
-    [![](https://img.shields.io/badge/YouTube-Xiuxu%20Li-%23FF0000?logo=youtube)]()
-</p>
+
+<p align="center">Check out my work below!</p>
+
+[![](https://img.shields.io/github/followers/Lcollection?style=social?logo=github)]()
+[![](https://img.shields.io/github/stars/Lcollection?style=social?logo=github)]()
+[![](https://img.shields.io/badge/BiliBili-L_Collection-%2300A1D6?logo=bilibili)]()
+[![](https://img.shields.io/badge/Zhihu-L--Collection-%230084FF?logo=zhihu)]()
+[![](https://img.shields.io/badge/YouTube-Xiuxu%20Li-%23FF0000?logo=youtube)]()
+
+
 <!--info for tools and skills-->
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?logo=archlinux&logoColor=ffffff)](https://www.archlinux.org/)
+### Tools & Environments
 [![](https://img.shields.io/badge/Huawei-p40%20pro-%23FF0000?logo=huawei&logoColor=ff0000)](https://www.huawei.com/cn/)
 [![](https://img.shields.io/badge/OS-Fedora-%23294172?logo=fedora)]()
 [![](https://img.shields.io/badge/macOS-Big%20Sur-%23000000?logo=apple)](https://www.apple.com.cn/)
@@ -29,7 +32,7 @@
 [![](https://img.shields.io/badge/IDE-Pycharm-%23000000?logo=pycharm)]()
 [![]()]()
 
-### 
+### Skills & Languages
 [![](https://img.shields.io/badge/Web-Chrome-%234285F4?logo=googlechrome)]()
 [![](https://img.shields.io/badge/-Java-%23007396?logo=java)]()
 [![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C?logo=cplusplus)]()
@@ -46,6 +49,16 @@
 [![](https://img.shields.io/badge/-Vim-%23019733?logo=vim)]()
 [![](https://img.shields.io/badge/-Emacs-%237F5AB6?logo=gnuemacs)]()
 [![](https://img.shields.io/badge/-MarkDown-%23000000?logo=markdown)]()
+
+### 📊 This Week I Spent My Time On:
+```text
+C++        5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
+PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+```
 
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/limiku2017)
