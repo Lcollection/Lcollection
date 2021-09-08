@@ -35,10 +35,10 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode)]()
 [![](https://img.shields.io/badge/IDE-Xcode-%23147EFB?logo=xcode)]()
 [![](https://img.shields.io/badge/IDE-Pycharm-%23000000?logo=pycharm)]()
+[![](https://img.shields.io/badge/Web-Chrome-%234285F4?logo=googlechrome)]()
 [![]()]()
 
 ### 📗 Skills & Languages
-[![](https://img.shields.io/badge/Web-Chrome-%234285F4?logo=googlechrome)]()
 [![](https://img.shields.io/badge/-Java-%23007396?logo=java)]()
 [![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C?logo=cplusplus)]()
 [![](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5)]()
