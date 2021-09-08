@@ -2,7 +2,11 @@
 
 
 <!--To follow my github-->
-![info](https://github-readme-stats.vercel.app/api?username=Lcollection&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lcollection&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+</a>
+
 
 
 
@@ -16,6 +20,7 @@
 [![](https://img.shields.io/badge/IDE-Xcode-%23147EFB?logo=xcode)]()
 [![](https://img.shields.io/badge/IDE-Pycharm-%23000000?logo=pycharm)]()
 
+### 
 [![](https://img.shields.io/badge/Web-Chrome-%234285F4?logo=googlechrome)]()
 [![](https://img.shields.io/badge/-Java-%23007396?logo=java)]()
 [![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C?logo=cplusplus)]()
@@ -30,7 +35,7 @@
 [![](https://img.shields.io/badge/-R-%23276DC3?logo=r)]()
 [![](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3)]()
 [![](https://img.shields.io/badge/-Vim-%23019733?logo=vim)]()
-[![](https://img.shields.io/badge/-Emacs-%237F5AB6?logo=emacs)]()
+[![](https://img.shields.io/badge/-Emacs-%237F5AB6?logo=gnuemacs)]()
 [![](https://img.shields.io/badge/-MarkDown-%23000000?logo=markdown)]()
 
 
