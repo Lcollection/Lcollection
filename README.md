@@ -1,4 +1,6 @@
-### Hi, 👋  I'm L_Collection
+<p align="center">
+    Hi 👋  I'm L_Collection.
+</p>
 
 
 <!--To follow my github-->
@@ -8,17 +10,23 @@
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Lcollection&hide=issues&title_color=333&text_color=777" alt="Lcollection's Stats" >
     -->
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
 
 <p align="center">Check out my work below!</p>
 
-[![](https://img.shields.io/github/followers/Lcollection?style=social?logo=github)]()
-[![](https://img.shields.io/github/stars/Lcollection?style=social?logo=github)]()
-[![](https://img.shields.io/badge/BiliBili-L_Collection-%2300A1D6?logo=bilibili)]()
-[![](https://img.shields.io/badge/Zhihu-L--Collection-%230084FF?logo=zhihu)]()
-[![](https://img.shields.io/badge/YouTube-Xiuxu%20Li-%23FF0000?logo=youtube)]()
+<p align="center">
+    <a href=""> <img src="https://img.shields.io/github/followers/Lcollection?style=social?logo=github" alt="followers"></a>
+    <a href=""> <img src="https://img.shields.io/github/stars/Lcollection?style=social?logo=github
+" alt="stars"></a>
+    <a href="https://www.youtube.com/channel/UC1phX2rSauxbFylywoVnryQ"> <img src="https://img.shields.io/badge/YouTube-Xiuxu%20Li-%23FF0000?logo=youtube" alt="YouTube"></a>
+    <a href="mailto:loveliveli2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail" alt="Gmail"></a>
+    <a href="https://www.zhihu.com/people/l-collection"> <img src="https://custom-icon-badges.herokuapp.com/badge/-zhihu-06f?logo=zhihu-favicon&style=flat" alt="zhihu"></a>
+    <a href="https://space.bilibili.com/5897300"> <img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-v2&style=flat" alt="bilibili"></a>
+    <a href="https://music.163.com/#/user/home?id=108854951"> <img src="https://custom-icon-badges.herokuapp.com/badge/-Music-ea2000?logo=netease-music-v3&style=flat" alt="netease-music"></a>
+</p>
 
 
 <!--info for tools and skills-->
@@ -57,11 +65,11 @@ PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░�
 Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %  
 ```
 
-
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/limiku2017)
+### My Steam 
+[![](https://img.shields.io/badge/Steam-171a21?logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/lcollection)
 
 
 
