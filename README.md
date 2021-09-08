@@ -2,15 +2,22 @@
 
 
 <!--To follow my github-->
+<p align="center">
+  <a href="https://github.com/Lcollection" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lcollection&title_color=333&text_color=777" alt="Lcollection's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Lcollection&hide=issues&title_color=333&text_color=777" alt="Lcollection's Stats" >
+    -->
+  </a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lcollection&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
-  </br>
-</a>
-
-
-
-
+<p align="center">
+    [![](https://img.shields.io/github/followers/Lcollection?style=social?logo=github)]()
+    [![](https://img.shields.io/github/stars/Lcollection?style=social?logo=github)]()
+    [![](https://img.shields.io/badge/BiliBili-L_Collection-%2300A1D6?logo=bilibili)]()
+    [![](https://img.shields.io/badge/Zhihu-L--Collection-%230084FF?logo=zhihu)]()
+    [![](https://img.shields.io/badge/YouTube-Xiuxu%20Li-%23FF0000?logo=youtube)]()
+</p>
 <!--info for tools and skills-->
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?logo=archlinux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Huawei-p40%20pro-%23FF0000?logo=huawei&logoColor=ff0000)](https://www.huawei.com/cn/)
@@ -20,6 +27,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode)]()
 [![](https://img.shields.io/badge/IDE-Xcode-%23147EFB?logo=xcode)]()
 [![](https://img.shields.io/badge/IDE-Pycharm-%23000000?logo=pycharm)]()
+[![]()]()
 
 ### 
 [![](https://img.shields.io/badge/Web-Chrome-%234285F4?logo=googlechrome)]()
