@@ -1,5 +1,5 @@
 <p align="center">
-    Hi 👋  I'm L_Collection.
+    Hi 👋   I'm L_Collection.
 </p>
 
 
@@ -18,10 +18,7 @@
 <p align="center">Check out my work below!</p>
 
 <p align="center">
-    <a href=""> <img src="https://img.shields.io/github/followers/Lcollection?style=social?logo=github" alt="followers"></a>
-    <a href=""> <img src="https://img.shields.io/github/stars/Lcollection?style=social?logo=github
-" alt="stars"></a>
-    <a href="https://www.youtube.com/channel/UC1phX2rSauxbFylywoVnryQ"> <img src="https://img.shields.io/badge/YouTube-Xiuxu%20Li-%23FF0000?logo=youtube" alt="YouTube"></a>
+    <a href="https://www.youtube.com/channel/UC1phX2rSauxbFylywoVnryQ"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube" alt="YouTube"></a>
     <a href="mailto:loveliveli2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail" alt="Gmail"></a>
     <a href="https://www.zhihu.com/people/l-collection"> <img src="https://custom-icon-badges.herokuapp.com/badge/-zhihu-06f?logo=zhihu-favicon&style=flat" alt="zhihu"></a>
     <a href="https://space.bilibili.com/5897300"> <img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-v2&style=flat" alt="bilibili"></a>
