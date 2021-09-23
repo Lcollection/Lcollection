@@ -31,7 +31,6 @@
 [![](https://img.shields.io/badge/Huawei-p40%20pro-%23FF0000?logo=huawei&logoColor=ff0000)](https://www.huawei.com/cn/)
 [![](https://img.shields.io/badge/OS-Fedora-%23294172?logo=fedora)]()
 [![](https://img.shields.io/badge/macOS-Big%20Sur-%23000000?logo=apple)](https://www.apple.com.cn/)
-[![](https://img.shields.io/badge/Windows-10-%230078D6?logo=windows)](https://www.microsoft.com/zh-cn)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode)]()
 [![](https://img.shields.io/badge/IDE-Xcode-%23147EFB?logo=xcode)]()
 [![](https://img.shields.io/badge/IDE-Pycharm-%23000000?logo=pycharm)]()
