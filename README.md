@@ -39,20 +39,13 @@
 [![]()]()
 
 ### 📗 Skills & Languages
-[![](https://img.shields.io/badge/-Java-%23007396?logo=java)]()
 [![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C?logo=cplusplus)]()
-[![](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5)]()
-[![](https://img.shields.io/badge/-NPM-%23CB3837?logo=npm)]()
 [![](https://img.shields.io/badge/-Git-%23F05032?logo=git)]()
 [![](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux)]()
-[![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript)]()
 [![](https://img.shields.io/badge/-Python-%233776AB?logo=python)]()
 [![](https://img.shields.io/badge/-PyTorch-%23EE4C2C?logo=pytorch)]()
-[![](https://img.shields.io/badge/-TensorFlow-%23FF6F00?logo=tensorflow)]()
 [![](https://img.shields.io/badge/-R-%23276DC3?logo=r)]()
-[![](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3)]()
 [![](https://img.shields.io/badge/-Vim-%23019733?logo=vim)]()
-[![](https://img.shields.io/badge/-Emacs-%237F5AB6?logo=gnuemacs)]()
 [![](https://img.shields.io/badge/-MarkDown-%23000000?logo=markdown)]()
 
 ### 📊 This Week I Spent My Time On:
