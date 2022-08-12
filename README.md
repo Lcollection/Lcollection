@@ -39,10 +39,10 @@
 
 ### 📗 Skills & Languages
 [![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C?logo=cplusplus)]()
-[![](https://img.shields.io/badge/-Git-%23F05032?logo=git)]()
-[![](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux)]()
-[![](https://img.shields.io/badge/-Python-%233776AB?logo=python)]()
-[![](https://img.shields.io/badge/-PyTorch-%23EE4C2C?logo=pytorch)]()
+[![](https://img.shields.io/badge/-Git-%23000000?logo=git)]()
+[![](https://img.shields.io/badge/-Linux-%23000000?logo=linux)]()
+[![](https://img.shields.io/badge/-Python-%23000000?logo=python)]()
+[![](https://img.shields.io/badge/-PyTorch-%23000000?logo=pytorch)]()
 [![](https://img.shields.io/badge/-R-%23276DC3?logo=r)]()
 [![](https://img.shields.io/badge/-Vim-%23019733?logo=vim)]()
 [![](https://img.shields.io/badge/-MarkDown-%23000000?logo=markdown)]()
