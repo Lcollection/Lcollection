@@ -30,7 +30,7 @@
 ### 🛠 Tools & Environments
 [![](https://img.shields.io/badge/Huawei-p40%20pro-%23FF0000?logo=huawei&logoColor=ff0000)](https://www.huawei.com/cn/)
 [![](https://img.shields.io/badge/OS-Fedora-%23294172?logo=fedora)]()
-[![](https://img.shields.io/badge/macOS-Big%20Sur-%23000000?logo=apple)](https://www.apple.com.cn/)
+[![](https://img.shields.io/badge/macOS-Monterey-lightgrey?logo=apple)](https://www.apple.com.cn/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode)]()
 [![](https://img.shields.io/badge/IDE-Xcode-%23147EFB?logo=xcode)]()
 [![](https://img.shields.io/badge/IDE-Pycharm-%23000000?logo=pycharm)]()
@@ -49,9 +49,9 @@
 
 ### 📊 This Week I Spent My Time On:
 ```text
-C++        5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+PyTorch    5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
+Python     1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+C/C++      1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %  
