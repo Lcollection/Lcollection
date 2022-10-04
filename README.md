@@ -8,15 +8,19 @@
 
 
 <!--To follow my github-->
-<p align="center">
-  <a href="https://github.com/Lcollection" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lcollection&title_color=333&text_color=777" alt="Lcollection's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Lcollection&hide=issues&title_color=333&text_color=777" alt="Lcollection's Stats" >
-    -->
-    <img align="right" alt="GIF" src="https://github.com/Lcollection/Lcollection/blob/main/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-</p>
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=lcollection&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lcollection&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="lcollection's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lcollection&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lcollection&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+</a>
+
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=lcollection&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lcollection&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="lcollection's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lcollection&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lcollection&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+</a>
 
 
 <p align="center">Check out my work below!</p>
@@ -44,7 +48,7 @@
 [![]()]()
 
 ### 📗 Skills & Languages
-[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,angular,atom,au,aws,azure,bash,bootstrap,bsd,c,cs,cpp,cmake,css,d3,discord,docker,emacs,electron,flutter,gcp,git,github,gitlab,html,idea,java,js,ai,jquery,julia,kotlin,latex,linux,md,matlab,mysql,nodejs,ps,php,powershell,pr,py,pytorch,r,stackoverflow,swift,ts,unity,vim,visualstudio,vue,webpack,wordpress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,pr,ps,angular,bootstrap,cmake,docker,flutter,nodejs,pytorch,vue,webpack,c,cs,cpp,bash,html,css,js,jquery,ts,java,julia,bsd,d3,swift,py,r,mysql,php,md,matlab,latex,kotlin,androidstudio,aws,azure,discord,emacs,gcp,git,idea,linux,powershell,stackoverflow,unity,vim,visualstudio,vscode,wordpress&theme=light)](https://skillicons.dev)
 
 
 
