@@ -3,6 +3,7 @@
 </p>
 
 
+
 <!--To follow my github-->
 <p align="center">
   <a href="https://github.com/Lcollection" class="rich-diff-level-one">
@@ -24,6 +25,10 @@
     <a href="https://space.bilibili.com/5897300"> <img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-v2&style=flat" alt="bilibili"></a>
     <a href="https://music.163.com/#/user/home?id=108854951"> <img src="https://custom-icon-badges.herokuapp.com/badge/-Music-ea2000?logo=netease-music-v3&style=flat" alt="netease-music"></a>
 </p>
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,angular,atom,au,aws,azure,bash,bootstrap,bsd,c,cs,cpp,cmake,css,d3,discord,docker,emacs,electron,flutter,gcp,git,github,gitlab,html,idea,java,js,,ai,jquery,julia,kotlin,latex,linux,md,matlab,mysql,nodejs,ps,php,powershell,pr,py,pytorch,r,stackoverflow,swift,ts,unity,vim,visualstudio,vue,webpack,wordpress&theme=light)](https://skillicons.dev)
 
 
 <!--info for tools and skills-->
