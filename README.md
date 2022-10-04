@@ -25,10 +25,10 @@
     <a href="https://space.bilibili.com/5897300"> <img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-v2&style=flat" alt="bilibili"></a>
     <a href="https://music.163.com/#/user/home?id=108854951"> <img src="https://custom-icon-badges.herokuapp.com/badge/-Music-ea2000?logo=netease-music-v3&style=flat" alt="netease-music"></a>
 </p>
+[![](https://img.shields.io/badge/Steam-171a21?logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/lcollection)
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,angular,atom,au,aws,azure,bash,bootstrap,bsd,c,cs,cpp,cmake,css,d3,discord,docker,emacs,electron,flutter,gcp,git,github,gitlab,html,idea,java,js,,ai,jquery,julia,kotlin,latex,linux,md,matlab,mysql,nodejs,ps,php,powershell,pr,py,pytorch,r,stackoverflow,swift,ts,unity,vim,visualstudio,vue,webpack,wordpress&theme=light)](https://skillicons.dev)
 
 
 <!--info for tools and skills-->
@@ -43,27 +43,10 @@
 [![]()]()
 
 ### 📗 Skills & Languages
-[![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C?logo=cplusplus)]()
-[![](https://img.shields.io/badge/-Git-%23000000?logo=git)]()
-[![](https://img.shields.io/badge/-Linux-%23000000?logo=linux)]()
-[![](https://img.shields.io/badge/-Python-%23000000?logo=python)]()
-[![](https://img.shields.io/badge/-PyTorch-%23000000?logo=pytorch)]()
-[![](https://img.shields.io/badge/-R-%23276DC3?logo=r)]()
-[![](https://img.shields.io/badge/-Vim-%23019733?logo=vim)]()
-[![](https://img.shields.io/badge/-MarkDown-%23000000?logo=markdown)]()
-
-### 📊 This Week I Spent My Time On:
-```text
-PyTorch    5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-Python     1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-C/C++      1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %  
-```
+[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,angular,atom,au,aws,azure,bash,bootstrap,bsd,c,cs,cpp,cmake,css,d3,discord,docker,emacs,electron,flutter,gcp,git,github,gitlab,html,idea,java,js,,ai,jquery,julia,kotlin,latex,linux,md,matlab,mysql,nodejs,ps,php,powershell,pr,py,pytorch,r,stackoverflow,swift,ts,unity,vim,visualstudio,vue,webpack,wordpress&theme=light)](https://skillicons.dev)
 
 ### 🕹 My Steam 
-[![](https://img.shields.io/badge/Steam-171a21?logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/lcollection)
+
 
 
 
