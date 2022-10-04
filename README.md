@@ -2,6 +2,9 @@
     Hi 👋   I'm L_Collection.
 </p>
 
+* 🎓 Computer Science, In [🏫 SDFMU](https://www.sdfmu.edu.cn) (2020 -- Present)
+* 🌱 Big Data & Transcriptomics & Neurobiology
+* ❤️ Love Linux and open source software
 
 
 <!--To follow my github-->
@@ -11,7 +14,7 @@
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Lcollection&hide=issues&title_color=333&text_color=777" alt="Lcollection's Stats" >
     -->
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="right" alt="GIF" src="https://github.com/Lcollection/Lcollection/blob/main/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
