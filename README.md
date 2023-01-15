@@ -48,7 +48,7 @@
 [![]()]()
 
 ### 📗 Skills & Languages
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,pr,ps,angular,bootstrap,cmake,docker,flutter,nodejs,pytorch,vue,webpack,c,cs,cpp,bash,html,css,js,jquery,ts,java,julia,bsd,d3,swift,py,r,mysql,php,md,matlab,latex,kotlin,androidstudio,aws,azure,discord,emacs,gcp,git,idea,linux,powershell,stackoverflow,unity,vim,visualstudio,vscode,wordpress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,pr,ps,,cmake,docker,flutter,nodejs,pytorch,vue,c,cpp,bash,ts,julia,d3,swift,py,r,md,latex,aws,azure,discord,gcp,git,linux,powershell,stackoverflow,vim,visualstudio,vscode,wordpress&theme=light)](https://skillicons.dev)
 
 
 
