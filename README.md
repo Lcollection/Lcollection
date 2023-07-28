@@ -25,17 +25,6 @@
 
 <p align="center">Check out my work below!</p>
 
-<p align="center">
-    <a href="https://www.youtube.com/channel/UC1phX2rSauxbFylywoVnryQ"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube" alt="YouTube"></a>
-    <a href="mailto:loveliveli2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail" alt="Gmail"></a>
-    <a href="https://www.zhihu.com/people/l-collection"> <img src="https://custom-icon-badges.herokuapp.com/badge/-zhihu-06f?logo=zhihu-favicon&style=flat" alt="zhihu"></a>
-    <a href="https://space.bilibili.com/5897300"> <img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-v2&style=flat" alt="bilibili"></a>
-    <a href="https://music.163.com/#/user/home?id=108854951"> <img src="https://custom-icon-badges.herokuapp.com/badge/-Music-ea2000?logo=netease-music-v3&style=flat" alt="netease-music"></a>
-</p>
-
-
-
-
 <!--info for tools and skills-->
 ### 🛠 Tools & Environments
 [![](https://img.shields.io/badge/Huawei-p40%20pro-%23FF0000?logo=huawei&logoColor=ff0000)](https://www.huawei.com/cn/)
