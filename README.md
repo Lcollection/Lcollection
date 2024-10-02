@@ -1,6 +1,6 @@
 <p align="center">
     Hi 👋   I'm L_Collection.
-    **如果有问题欢迎在博客留言或直接提起issue**
+    
 </p>
 
 
@@ -41,5 +41,5 @@
 [![My Skills](https://skillicons.dev/icons?i=ae,au,ai,pr,ps,cmake,docker,pytorch,c,cpp,bash,py,r,md,latex,gcp,git,linux,powershell,stackoverflow,vim,visualstudio,vscode&theme=light)](https://skillicons.dev)
 
 
-
+**如果有问题欢迎在博客留言或直接提起issue**
 
