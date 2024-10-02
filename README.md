@@ -1,6 +1,9 @@
 <p align="center">
     Hi 👋   I'm L_Collection.
+    **如果有问题欢迎在博客留言或直接提起issue**
 </p>
+
+
 
 * 🎓 Computer Science, In [🏫 SDFMU](https://www.sdfmu.edu.cn) (2020 -- 2024)
 * 🎓 Westlake University  (2023 -- Present)
