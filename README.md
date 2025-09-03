@@ -31,11 +31,13 @@
 
 <!--info for tools and skills-->
 ### 🛠 Tools & Environments
+[![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)]()
 [![](https://img.shields.io/badge/OS-Fedora-%23294172?logo=fedora)]()
 [![](https://img.shields.io/badge/macOS-Monterey-lightgrey?logo=apple)](https://www.apple.com.cn/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode)]()
 [![](https://img.shields.io/badge/IDE-Xcode-%23147EFB?logo=xcode)]()
 [![](https://img.shields.io/badge/Web-Chrome-%234285F4?logo=googlechrome)]()
+
 
 ### 📗 Skills & Languages
 [![My Skills](https://skillicons.dev/icons?i=ae,au,ai,pr,ps,cmake,docker,pytorch,c,cpp,bash,py,r,md,latex,gcp,git,linux,powershell,stackoverflow,vim,visualstudio,vscode&theme=light)](https://skillicons.dev)
