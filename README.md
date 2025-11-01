@@ -7,7 +7,7 @@
 
 * 🎓 Computer Science, In [🏫 SDFMU](https://www.sdfmu.edu.cn) (2020 -- 2024)
 * 🎓 Westlake University  (2023 -- Present)
-* 🌱 Big Data & Transcriptomics & Neurobiology
+* 🌱 AI4Protein & AI Infra & Neurobiology
 * ❤️ Love Linux and open source software
 
 
